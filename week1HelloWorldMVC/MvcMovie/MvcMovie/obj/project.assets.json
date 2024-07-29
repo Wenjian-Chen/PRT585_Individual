@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\2024_S2\\PRT585\\PRT585_Individual\\week1HelloWorldMVC\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "D:\\Dev\\PRT585\\week1HelloWorldMVC\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "D:\\2024_S2\\PRT585\\PRT585_Individual\\week1HelloWorldMVC\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "D:\\Dev\\PRT585\\week1HelloWorldMVC\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\CWJ\\.nuget\\packages\\",
-      "outputPath": "D:\\2024_S2\\PRT585\\PRT585_Individual\\week1HelloWorldMVC\\MvcMovie\\MvcMovie\\obj\\",
+      "outputPath": "D:\\Dev\\PRT585\\week1HelloWorldMVC\\MvcMovie\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Dev\\Microsoft Visual Studio\\Shared\\NuGetPackages"
